@@ -1,9 +1,3 @@
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-
- ##Link
+ ### Link
+ -Live Site URL: [https://okiemuteidjerhe.github.io/advice-generator/]
  
